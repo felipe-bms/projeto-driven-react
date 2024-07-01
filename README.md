@@ -1,3 +1,33 @@
+# Projeto Instagram Clone - React
+
+Este projeto é uma implementação de um clone da interface do Instagram, inicialmente construído em HTML, CSS e JavaScript puro (vanilla), e posteriormente otimizado e migrado para a biblioteca React para melhor gerenciamento de estado, reutilização de componentes e renderização eficiente.
+
+## Tecnologias Utilizadas
+
+### Frontend
+- **React**: Biblioteca JavaScript para construir interfaces de usuário.
+- **CSS**: Estilização da interface do usuário.
+- **HTML**: Estrutura básica da aplicação.
+- **JavaScript**: Lógica de interação do frontend.
+
+### Bibliotecas e Ferramentas Adicionais
+- **Create React App**: Ferramenta para inicialização do projeto React.
+- **Ionicons**: Conjunto de ícones utilizado na interface.
+
+## Funcionalidades Implementadas
+
+- **Barra de Navegação**: Com ícones e campo de busca.
+- **Stories**: Componentes que exibem histórias de usuários.
+- **Posts**: Componentes que exibem posts com funcionalidades de like e save.
+- **Sidebar**: Componente que exibe o perfil do usuário e sugestões de contas para seguir.
+- **Interação de Like**: Comportamento de toggle para o botão de like, incrementando o número de curtidas.
+- **Formatação de Curtidas**: Exibição do número de curtidas com separadores de milhar.
+
+-------------------------------//-----------------------------------------------------------
+
+
+README from React
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
